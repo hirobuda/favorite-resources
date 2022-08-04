@@ -83,7 +83,7 @@ For a chad abstract second exposition:
 ### Deep Learning
 
 - Geometry of Deep Learning - A Signal Processing Perspective - Jong Chul Ye
-- Machine Learning: A Practical Approach on the Statistical Learning Theory
+- Machine Learning: A Practical Approach on the Statistical Learning Theory - Rodrigo Fernandes de Mello, Moacir Antonelli Ponti
 - [colah's blog](https://colah.github.io/)
 
 #### Graph Neural Networks
