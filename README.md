@@ -32,6 +32,7 @@ If it's your first time learning calculus:
 
 - [Essence of Calculus by 3Blue1Brown](https://youtube.com/playlist?list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x)
 - [Calculus I, II, and III - Jerrold E. Marsden and Alan Weinstein](https://www.cds.caltech.edu/~marsden/volume/Calculus/)
+- [Differential And Integral Calculus - N. Piskunov](https://archive.org/details/n.-piskunov-differential-and-integral-calculus-mir-1969/mode/2up)
 
 If it's not:
 
