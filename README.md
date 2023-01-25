@@ -86,10 +86,13 @@ For a chad abstract second exposition:
 - [Learn X in Y minutes, where X=Python](https://learnxinyminutes.com/docs/python/)
 - [Python documentation](https://docs.python.org/3/)
 
-### Deep Learning
+### Machine Learning
 
 - Geometry of Deep Learning - A Signal Processing Perspective - Jong Chul Ye
 - Machine Learning: A Practical Approach on the Statistical Learning Theory - Rodrigo Fernandes de Mello, Moacir Antonelli Ponti
+- Deep Learning Architectures - A Mathematical Approach - Ovidiu Calin
+- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) - Christopher Bishop 
+- [Video lectures by Erik Bekkers(based on Bishop's book)](https://www.youtube.com/watch?v=_XmGyd4smUs&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n)
 - [colah's blog](https://colah.github.io/)
 
 #### Graph Neural Networks
