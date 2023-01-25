@@ -46,7 +46,6 @@ If it's not:
 
 - Complex Analysis - Lars Ahlfors
 
-
 ### Linear Algebra
 
 For applied stuff:
@@ -69,6 +68,12 @@ For a chad abstract second exposition:
 ### Complex Networks 
 
 - Networks - Mark Newman
+
+## Topology
+
+- Topology: A Categorical Approach - John Terilla, Tai-Danae Bradley, and Tyler Bryson
+
+- Set theory and metric spaces - Irving Kaplansky
 
 ## Computer Science
 
