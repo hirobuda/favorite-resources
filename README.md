@@ -69,7 +69,7 @@ For a chad abstract second exposition:
 
 - Networks - Mark Newman
 
-## Topology
+### Topology
 
 - Topology: A Categorical Approach - John Terilla, Tai-Danae Bradley, and Tyler Bryson
 
