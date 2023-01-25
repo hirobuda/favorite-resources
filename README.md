@@ -72,7 +72,6 @@ For a chad abstract second exposition:
 ### Topology
 
 - Topology: A Categorical Approach - John Terilla, Tai-Danae Bradley, and Tyler Bryson
-
 - Set theory and metric spaces - Irving Kaplansky
 
 ## Computer Science
@@ -100,3 +99,4 @@ For a chad abstract second exposition:
 - [the ai summer](https://theaisummer.com/graph-convolutional-networks/)
 - [Graph Neural Networks for Novice Math Fanatics](https://rish16.notion.site/Graph-Neural-Networks-for-Novice-Math-Fanatics-c51b922a595b4efd8647788475461d57)
 - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+- [Everything is Connected: Graph Neural Networks](https://arxiv.org/abs/2301.08210) - Petar Veličković
