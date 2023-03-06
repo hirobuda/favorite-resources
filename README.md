@@ -73,6 +73,7 @@ For a chad abstract second exposition:
 
 - Topology: A Categorical Approach - John Terilla, Tai-Danae Bradley, and Tyler Bryson
 - Set theory and metric spaces - Irving Kaplansky
+- Introduction to Topological Manifolds - John M. Lee
 
 ## Computer Science
 
